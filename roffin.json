@@ -1,0 +1,14 @@
+{
+    "to": "6285780335397",
+    "msgType": "text",
+    "templateId": "46cc7f22-13e0-464a-9e86-4da1e0aff317",
+    "values": {
+        "body": [
+            {
+                "index": 1,
+                "type": "text",
+                "text": "9999"
+            }
+        ]
+    }
+}
