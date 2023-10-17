@@ -1,0 +1,5 @@
+(
+    furqon.bat
+)&(
+    solikhin.bat
+)

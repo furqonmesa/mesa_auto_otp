@@ -1,0 +1,1 @@
+call curl -X POST -H "Content-Type: application/json" -H "Accept: application/json" -H "Authorization: Bearer 31rscgcyhcs1tiq1ggh21v" --data @solikhin.json https://web.maxchat.id/api/messages/push
